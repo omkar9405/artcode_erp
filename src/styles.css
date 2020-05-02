@@ -158,7 +158,7 @@ h6 {
 /*=============== 2.3 Forms ==================*/
 .form-group .form-control {
   height: 30px;
-  background-color: #f8f8f8;
+  background-color:transparent;
   font-size: 14px;
   color: #111111;
   border-radius: 4px;
@@ -2490,7 +2490,7 @@ ul {
   display: block;
 }
 .new-added-form .form-group .form-control {
-  background-color: #f0f1f3;
+  background-color: transparent;
   height: 45px;
 }
 .new-added-form .form-group i {
